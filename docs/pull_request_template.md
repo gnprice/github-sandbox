@@ -1,4 +1,4 @@
-<!-- What does this PR do, and why? -->
+<!-- What's this PR for?  (Just a link to an issue is fine.) -->
 
 
 **Testing Plan:** <!-- How have you tested? -->
